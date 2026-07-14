@@ -1,2 +1,28 @@
-# 2e561feac3e3dbe7-devops-infra-content-managemen
-You shouldn't need a second monitor of browser bookmarks to have the information you need right in your browser.  Works directly in Chrome, Edge, and Brave — no switching apps required. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Devops Infra Content Management And Publishing — fully configured and ready to use - One
+# Devops Infra Content Management and Publishing API
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI00jfXxgaUaNO9rKcZL39)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI00jfXxgaUaNO9rKcZL39)
+
